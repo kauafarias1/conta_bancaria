@@ -8,7 +8,7 @@ export function main() {
     while (true) {
 
         console.log(colors.bg.black, colors.fg.yellow, 
-                    "*****************************************************");
+                "*****************************************************");
         console.log("                                                     ");
         console.log("                BANCO DO BRAZIL COM Z                ");
         console.log("                                                     ");
